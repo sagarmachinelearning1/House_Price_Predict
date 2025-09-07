@@ -1,0 +1,4 @@
+venv
+logs/
+notebooks/
+data/raw
